@@ -2,22 +2,22 @@
 
 ## Usuarios
 
-|      Usuario      |         Plan de entrenamiento semanal         | Competencias para participar                                                    |
-| :---------------: | :-------------------------------------------: | ------------------------------------------------------------------------------- |
-|      orendon      |         En cuantas competencias vas a         | 1 semanal ( IFF cae fin de semana y no tengo otro compromiso familiar/personal) |
-|     jmromeroe     | 3 días, un día entre semana, Sábado y Domingo |                                                                                 |
-|    Marcos2022     |                      \_                       | \_                                                                              |
-|    Cracklitos     |                      \_                       | \_                                                                              |
-|     xTakamura     |                      \_                       | \_                                                                              |
-|    ElioEfra99     |                      \_                       | \_                                                                              |
-|       Gezku       |                      \_                       | \_                                                                              |
-|       Kiob        |                      \_                       | \_                                                                              |
-|     cbdavide      |                      \_                       | \_                                                                              |
-|     yerminson     |                      \_                       | \_                                                                              |
-|      pyjavo       |                      \_                       | \_                                                                              |
-| Francisco Gajardo |                      \_                       | \_                                                                              |
-|     stevengpa     |                      \_                       | \_                                                                              |
-
+|      Usuario      |                                                         Plan de entrenamiento semanal                                                         | Competencias para participar                                                    |
+| :---------------: | :-------------------------------------------------------------------------------------------------------------------------------------------: | ------------------------------------------------------------------------------- |
+|      orendon      |                                        3 días, de Lunes a Viernes, 30 min antes ó después del trabajo                                         | 1 semanal ( IFF cae fin de semana y no tengo otro compromiso familiar/personal) |
+|     jmromeroe     |                                                 3 días, un día entre semana, Sábado y Domingo                                                 |                                                                                 |
+|    Marcos2022     |                 30 minutos L-D Soy novato en esto y estoy aprendiendo desde lo mas básico, tiempos, notación asintótica etc…                  | 1 por semana aunque no logre resolver ninguno 😞                                |
+|    Cracklitos     | 2 problemas de ladders y 2 problemas de leetcode apartir de hoy (solo cuando no haya contest y no tenga tarea o proyecto de la UNI) cada dia. | Atcoder, codechef,codeforces (1 a la semana)                                    |
+|     xTakamura     |                                                                      \_                                                                       | \_                                                                              |
+|    ElioEfra99     |                                                                      \_                                                                       | \_                                                                              |
+|       Gezku       |                                                                      \_                                                                       | \_                                                                              |
+|       Kiob        |                                                                      \_                                                                       | \_                                                                              |
+|     cbdavide      |                                                                      \_                                                                       | \_                                                                              |
+|     yerminson     |                                                                      \_                                                                       | \_                                                                              |
+|      pyjavo       |                                                                      \_                                                                       | \_                                                                              |
+| Francisco Gajardo |                                                                      \_                                                                       | \_                                                                              |
+|     stevengpa     |                                                                      \_                                                                       | \_                                                                              |
+|   codesandtags    |                                                      Leyendo conceptos de BigO notation.                                                      | Solución de CodingJS como alternativa a CodingBat, hasta Marzo 15               |
 
 ## Seguimiento
 
@@ -36,4 +36,3 @@
 | pyjavo            | --        | [ ]       | [ ]          | [ ]      | [ ]       | [ ]       | [ ]          |
 | Francisco Gajardo | [ ]       | [ ]       | [ ]          | [ ]      | [ ]       | [ ]       | [ ]          |
 | stevengpa         | [ ]       | [ ]       | [ ]          | [ ]      | [ ]       | [ ]       | [ ]          |
-
