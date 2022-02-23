@@ -39,7 +39,7 @@ En general puede entrenar usando cualquier recurso/problemset que prefiera, el r
 
 ## Recursos 
 
-TODO....
+Revisa nuestra [lista de recursos](./resources.md) para reforzar tus conocimientos, dónde podrás empezar desde cero o dependiendo tu nivel, enfrentarte a retos más dificiles de diferentes plataformas.
 
 ## Miembros
 
