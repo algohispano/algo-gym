@@ -1,4 +1,4 @@
-# Algo Gym
+# 💪🏼 Algo Gym
 > Entrena y refuerza tus conocimientos con la comunidad y comparte tus objetivos y rutina de entrenamiento.
 
 ## ¿Cómo funciona?
@@ -36,3 +36,11 @@ En general puede entrenar usando cualquier recurso/problemset que prefiera, el r
 5. Si esta buscando algo mucho mas sencillo, desde lo elemental, puede hacer CodingBat (está en Java, Python y JS)
 
 6. Cualquier cosa pregunte sin pena en el chat
+
+## Recursos 
+
+TODO....
+
+## Miembros
+
+A continuación podrás ver la lista de  [miembros en nuestro Algo Gym](./members.md).
